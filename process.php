@@ -1,5 +1,7 @@
 <?php
 
+//this is a comment
+
 include('connection.php');
 session_start();
 //registration and login validator
