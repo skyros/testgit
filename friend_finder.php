@@ -9,7 +9,7 @@ $user_table = new process();
 
 <html>
 <head>
-	<title>Wall</title>
+	<title>Friend Finder</title>
 </head>
 <body>
 	<h3>Welcome <?= $_SESSION['logged_in']['first_name'].' '.$_SESSION['logged_in']['last_name']?></h3>
